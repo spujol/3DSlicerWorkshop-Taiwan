@@ -21,11 +21,12 @@ Please download the latest version of Slicer 4:
 
 ### Tutorial Datasets
 Please download and unzip the following files
+
 [3D Visualization DICOM.zip](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=1)
 
 [Abdomen Dataset.zip](https://www.dropbox.com/s/m3slat1aouq0j75/Diffusion%20MRI.zip?dl=1)
 
-[Liver Scene.zip](https://www.dropbox.com/s/p41hlvssjpa48in/WhiteMatterExplorationData.zip?dl=1)
+[Liver Scene.zip](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
 
 ## Contact
 For questions related to the course, please send an e-mail to spujol at bwh.harvard.edu
