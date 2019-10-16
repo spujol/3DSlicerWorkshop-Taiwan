@@ -24,9 +24,9 @@ Please download and unzip the following files
 
 [3D Visualization DICOM.zip](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=1)
 
-[Abdomen Dataset.zip](https://www.dropbox.com/s/m3slat1aouq0j75/Diffusion%20MRI.zip?dl=1)
+[Abdomen Dataset.zip](https://www.dropbox.com/s/j48rsfdtweguwxe/Abdomen_dataset.zip?dl=1)
 
-[Liver Scene.zip](https://www.dropbox.com/s/pwalbzpc9k25t7d/3DVisualization_DICOM.zip?dl=0)
+[Liver Scene.zip](https://www.dropbox.com/s/vl94z4ldzr6vvhz/LiverScene.zip?dl=1)
 
 ## Contact
 For questions related to the course, please send an e-mail to spujol at bwh.harvard.edu
