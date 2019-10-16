@@ -16,7 +16,7 @@ October 16, 2019
 Participants are invited to install the 3D Slicer software and the workshop datasets in preparation for the hands-on sessions.
 
 ### Software
-Please download the latest version of Slicer 4.10.2: 
+Please download the latest version of 3D Slicer: 
 [Slicer 4.10.2 Stable Release Version rev. 28257](https://download.slicer.org/)
 
 ### Tutorial Datasets
